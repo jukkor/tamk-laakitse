@@ -1,0 +1,136 @@
+/* General */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  min-width: 550px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.flex-col-container {
+  max-width: 900px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* App.jsx */
+
+nav {
+  position: sticky;
+  top: 0;
+  background: white;
+  padding: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav img {
+  max-width: 250px;
+}
+
+main {
+  padding: 0.5rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 0.5rem;
+}
+
+footer img {
+  max-width: 250px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+
+/* Introduction.jsx */
+
+h1,
+h2 {
+  color: #4e008e;
+  font-weight: bold;
+}
+
+.instructions {
+  margin: 0 0 3rem 0;
+}
+
+
+/* QuestionnaireTable.jsx */
+
+.tableContainer {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.tableContainer table {
+  min-width: 580px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+td {
+  border-collapse: collapse;
+  max-width: "1250px";
+  border: 1px solid gray;
+  margin: 0;
+}
+
+td {
+  padding: 1rem;
+  white-space: pre-wrap;
+}
+
+.answersCell {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 150px;
+}
+
+.answersCell__answerOptions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+
+
+
+/* Summary.jsx */
+
+.padding-top-bottom {
+  padding: 2rem 0;
+}
+
+.text-container {
+  max-width: 900px;
+  width: 100%;
+}
+
+.pageBreakBefore {
+  break-before: always;
+  break-inside: avoid;
+}
+
+.avoidBreak {
+  break-inside: avoid;
+}

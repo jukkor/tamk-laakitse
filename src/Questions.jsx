@@ -46,7 +46,7 @@ const questions = [
   },
   {
     "category": "Sairaanhoitajan tehtävät ja vastuu lääkehoitoprosessissa",
-    "question": "Kun toteutat lääkehoitoa, huomioit seuraavat asiat:\n\nturvallisuus\ntehokkuus\ntaloudellisuus \ntarkoituksenmukaisuus.",
+    "question": "Kun toteutat lääkehoitoa, huomioit seuraavat asiat:\n\n- Turvallisuus\n- Tehokkuus\n- Taloudellisuus \n- Tarkoituksenmukaisuus.",
     "additionalInformation": "Lääkehoidon turvallisuuteen vaikuttaa moni asia. Viranomaiset valvovat ja ohjaavat lääkehoidon turvallisuutta. Terveydenhuollon organisaation, toimintayksikön ja lääkehoitoa toteuttavan ammattihenkilön täytyy huolehtia, että potilaan lääkehoito on mahdollisimman riskitöntä ja hyvin suunniteltua. \n\nLääkehoidon tehokkuus tarkoittaa, että lääke auttaa potilasta saavuttamaan halutun terveysvaikutuksen, kuten oireiden lievittämisen tai sairauden parantamisen.  \n\nJotta lääkehoito on taloudellista, työntekijöiden täytyy huomioida lääkehoidon hinta ja kustannukset. \n\nLääkehoito on tarkoituksenmukaista, kun lääkkeitä käytetään oikein, tarpeen mukaan, ohjeiden mukaisesti, oikeaan aikaan ja sopivilla annoksilla. Tämä hyödyttää sekä potilasta että yhteiskuntaa"
   },
   {
@@ -106,7 +106,7 @@ const questions = [
   },
   {
     "category": "Näyttöön perustuvan toiminta ja tietokantojen käyttö",
-    "question": "Tiedät tärkeät luotettavan lääketiedon lähteet ja osaat hakea niistä tietoa:  \n\nLääketetokanta\nPharmaca Fennica\nLääkeopas/ terveyskirjasto\nLääkeinteraktiot ja -haitat\nLääke 75+\nHoitotyön Pharmaca \nLääketalo\nMyrkytystietokeskus\nHotus\nKäypähoito",
+    "question": "Tiedät tärkeät luotettavan lääketiedon lähteet ja osaat hakea niistä tietoa:\n\n- Lääketetokanta\n- Pharmaca Fennica\n- Lääkeopas/terveyskirjasto\n- Lääkeinteraktiot ja -haitat\n- Lääke 75+\n- Hoitotyön Pharmaca \n- Lääketalo\n- Myrkytystietokeskus\n- Hotus\n- Käypähoito",
     "additionalInformation": "Lähde on aineisto tai materiaali, jonka avulla saat tietoa tietystä aiheesta."
   },
   {
@@ -116,7 +116,7 @@ const questions = [
   },
   {
     "category": "Viestintä ja tiedonkulku turvallisessa lääkehoitoprosessissa",
-    "question": "Osaat lääkehoitoon liittyvän suullisen ja kirjallisen viestinnän niin, että lääkehoito on turvallista potilaalle: \nOsaat kertoa lääkärille ja muille lääkehoitoa toteuttaville kaikki lääkehoitoon liittyvät asiat. \nOsaat suomeksi lääkemuodot, antotavat ja annosteluun liittyvän terminologian. \nOsaat toistaa lääkemääräyksen ja annetut ohjeet.\nOsaat varmistaa, kun olet epävarma.",
+    "question": "Osaat lääkehoitoon liittyvän suullisen ja kirjallisen viestinnän niin, että lääkehoito on turvallista potilaalle: \n\n- Osaat kertoa lääkärille ja muille lääkehoitoa toteuttaville kaikki lääkehoitoon liittyvät asiat. \n- Osaat suomeksi lääkemuodot, antotavat ja annosteluun liittyvän terminologian. \n- Osaat toistaa lääkemääräyksen ja annetut ohjeet.\n- Osaat varmistaa, kun olet epävarma.",
     "additionalInformation": "Lääkehoitoa toteuttavat henkilöt ovat yleensä ammattihenkilöitä, joilla on koulutus ja lupa osallistua lääkehoidon toteuttamiseen. Näitä ammattihenkilöitä ovat esimerkiksi lääkärit, sairaanhoitajat, terveydenhoitajat ja lähihoitajat."
   },
   {
@@ -141,7 +141,7 @@ const questions = [
   },
   {
     "category": "Voimassa olevan lääkityksen ja riskitietojen tarkistaminen \nLääkehoidon tarpeiden arviointi",
-    "question": "Osaat selvittää potilaan voimassa olevan lääkityksen ja sen ajantasaisuuden. (Lääkitykseen voi kuulua reseptilääkkeitä, itsehoitolääkkeeitä, luontaistuotteita ja kasvisrohtovalmisteita.)\nKäytät selvittämisessä eri lähteitä:\nKanta\nPotilastietojärjestelmä\nHaastattelu\nOmaiset",
+    "question": "Osaat selvittää potilaan voimassa olevan lääkityksen ja sen ajantasaisuuden. (Lääkitykseen voi kuulua reseptilääkkeitä, itsehoitolääkkeeitä, luontaistuotteita ja kasvisrohtovalmisteita.)\n\nKäytät selvittämisessä eri lähteitä:\n- Kanta\n- Potilastietojärjestelmä\n- Haastattelu\n- Omaiset",
     "additionalInformation": "Voimassa oleva lääkitys tarkoittaa potilaalle määrättyjä lääkkeitä, joita hän käyttää tällä hetkellä. \n\nReseptilääkkeitä ovat lääkärin määräämiä lääkkeitä, esimerkiksi antibiootit, verenpainelääkkeet ja keskushermostoon vaikuttavat lääkkeet. \n\nItsehoitolääke on lääke, jonka voi ostaa ilman reseptiä apteekista. Esimerkiksi monet särky- ja allergialääkkeet ovat itsehoitolääkkeitä. Itsehoitolääkkeestä tai valmisteesta käytetään myös sanaa käsikauppalääke.  \n\n\nLuontaistuote on luonnonmukainen valmiste, joka on valmistettu kasveista, yrteistä, mineraaleista tai eläinperäisistä aineista. Luontaistuotteita ovat esimerkiksi yrttivalmisteet, vitamiinit, kivennäisaineet ja erilaiset ravintolisät. \n \n \nKasvisrohtovalmisteet ovat valmisteita, joiden vaikuttavat aineet ovat peräisin kasveista."
   },
   {
@@ -176,7 +176,7 @@ const questions = [
   },
   {
     "category": "Lääkehoidon toteuttamisen suunnittelu ja kirjaaminen",
-    "question": "Osaat tarkastaa ja huomioida potilaan lääkkeiden keskeisimmät haitta- ja yhteisvaikutukset sekä yhteisvaikutukset alkoholin kanssa:\nRiskBase\nHerbBAse\nINXBase",
+    "question": "Osaat tarkastaa ja huomioida potilaan lääkkeiden keskeisimmät haitta- ja yhteisvaikutukset sekä yhteisvaikutukset alkoholin kanssa:\n\n- RiskBase\n- HerbBAse\n- INXBase",
     "additionalInformation": "Haittavaikutus on lääkehoidon negatiivinen seuraus. Lääkehoidon haittavaikutukset voivat olla lieviä (esim. päänsärky) mutta myös vakavia (esim. munuais- ja maksavauriot).\n\nLääkkeiden yhteisvaikutus tarkoittaa tilannetta, jossa yhden tai useamman lääkkeen samanaikainen käyttö vaikuttaa siihen, kuinka tehokasta ja turvallista lääkkeiden käyttö on. Yhteisvaikutukset voivat olla joko haitallisia tai hyödyllisiä. Haitalliset yhteisvaikutukset voivat esimerkiksi voimistaa lääkkeen haittavaikutuksia tai heikentää lääkkeen tehoa."
   },
   {
@@ -256,7 +256,7 @@ const questions = [
   },
   {
     "category": "Lääkelaskenta",
-    "question": "Osaat lääkelaskennan, kun annat lääkettä. Otat huomioon eri muotoiset lääkkeet, erilaiset antotavat ja myös potilaan iän sekä sen, millainen sairaus hänellä on.\nYksikkömuunnokset \nAnnoslaskut \nLääkkeen riittävyys\nInfuusiolaskut\nLaimennuslaskut\nKaasulaskut",
+    "question": "Osaat lääkelaskennan, kun annat lääkettä. Otat huomioon eri muotoiset lääkkeet, erilaiset antotavat ja myös potilaan iän sekä sen, millainen sairaus hänellä on.\n\n- Yksikkömuunnokset\n- Annoslaskut \n- Lääkkeen riittävyys\n- Infuusiolaskut\n- Laimennuslaskut\n- Kaasulaskut",
     "additionalInformation": "Lääkelaskujen yksikkömuunnokset tarkoittavat sitä, että lääkelaskussa oleva mittayksikkö (esim. millilitra) muutetaan toiseksi mittayksiköksi.\n\nAnnoslaskun avulla selvitetään, mikä on oikea lääkkeen annos potilaalle. \n\nKun lasketaan lääkkeen riittävyys, tavoitteena on selvittää, kuinka kauan lääkemäärä riittää potilaan hoitoon.\n\nInfuusiolaskun avulla selvitetään, millainen tiputusnopeus tai annos infuusiossa pitäisi olla. \n\nLaimennuslaskun avulla selvitetään, kuinka paljon alkuperäistä liuosta ja laimennusnestettä (esim. keittosuolaliuosta) tarvitaan, jotta saadaan haluttu liuoksen pitoisuus. \n\nKaasulaskun avulla voidaan esim. selvittää, kuinka paljon ja millä virtausnopeudella kaasua annetaan potilaalle."
   },
   {
